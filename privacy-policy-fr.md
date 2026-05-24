@@ -1,7 +1,8 @@
 # Politique de Confidentialité — Naya Serre Tropicale
 
-**Dernière mise à jour : 19 mai 2026**
-**En vigueur depuis le : 19 mai 2026**
+**Naya Serre Tropicale**  
+Dernière mise à jour : 24 mai 2026  
+En vigueur depuis le : 19 mai 2026
 
 ---
 
@@ -77,6 +78,16 @@ Nous utilisons vos données pour :
 
 **Nous n'utilisons JAMAIS vos données pour de la publicité ciblée.**
 
+### 3.4 Intelligence artificielle (IA verte)
+
+Naya Serre Tropicale intègre une fonctionnalité d'identification de plantes et de conseils personnalisés alimentée par l'intelligence artificielle (Anthropic / Claude). Lorsque vous utilisez cette fonctionnalité :
+
+- **Votre photo de plante** est envoyée temporairement à Anthropic pour analyse
+- **La photo n'est PAS conservée** par Anthropic après traitement
+- **Vos photos ne sont JAMAIS utilisées** pour entraîner les modèles d'IA
+- **Aucune donnée personnelle identifiable** n'est transmise à l'IA (ni votre nom, ni votre email)
+- Les résultats sont affichés dans votre journal personnel et peuvent être supprimés à tout moment
+
 ---
 
 ## 4. Partage de vos données
@@ -86,7 +97,8 @@ Nous utilisons vos données pour :
 Nous partageons vos données uniquement avec :
 
 - **Supabase** (hébergeur de la base de données) — basé aux États-Unis, conforme RGPD
-- **Expo / Anthropic** (notifications push) — basé aux États-Unis
+- **Expo Push Notifications** (envoi de notifications push iOS) — basé aux États-Unis
+- **Anthropic / Claude** (intelligence artificielle pour identification de plantes et conseils personnalisés) — basé aux États-Unis, conforme RGPD, données non utilisées pour l'entraînement
 - **Prestataires de paiement** : Wave, Orange Money, MTN MoMo (lorsque vous payez une commande)
 - **Service de livraison** : uniquement votre adresse pour livrer vos plantes
 
